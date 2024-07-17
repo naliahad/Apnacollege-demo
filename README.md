@@ -1,2 +1,2 @@
 This is my first repo.
-Author -  Ahad Ali
+Author -  Ahad Ali (Apna College)
